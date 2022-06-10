@@ -1,0 +1,119 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+	background-color: hsl(0, 0%, 98%);
+	
+
+}
+.bd{
+	width: 90%;
+	margin: auto;
+	max-width: 375px;
+	text-align: center;
+	padding: 30px 20px;
+	box-shadow: 0 10px 40px hsl(229, 6%, 66%);
+	border-radius: 5px;
+}
+.top{
+	margin: auto;
+	padding-top: 20px;
+	border: none;
+	text-align: center;
+}
+.top h1{
+	color: hsl(234, 12%, 34%);
+	font-size: 30px;
+}
+.bold{
+	padding: 10px;
+}
+.top h4{
+	color: hsl(229, 6%, 66%);
+	font-size: 19px;
+}
+.template{
+	margin: auto;
+	padding-top: 50px;
+	align-items: center; 
+}
+.supervisor{
+	border: none;
+	border-radius: 5px;
+	padding: 30px;
+	margin-bottom: 30px;
+	border-top: solid hsl(180, 62%, 55%);
+	box-shadow: 5px 10px 20px hsl(229, 6%, 66%);
+}
+.supervisor h2{
+	text-align: left;
+}
+.supervisor h5{
+	text-align: left;
+	color: hsl(229, 6%, 66%);
+	width: 250px;
+}
+.supervisor img{
+	margin-left: 200px;
+	margin-top: 30px;
+}
+.team_builder{
+	border: none;
+	border-radius: 5px;
+	padding: 30px;
+	margin-bottom: 30px;
+	border-top: solid hsl(0, 78%, 62%);
+	box-shadow: 5px 10px 20px hsl(229, 6%, 66%);
+}
+.team_builder h2{
+	text-align: left;
+}
+.team_builder h5{
+	text-align: left;
+	color: hsl(229, 6%, 66%);
+	width: 250px;
+}
+.team_builder img{
+	margin-left: 200px;
+	margin-top: 30px;
+}
+.karma{
+	border: none;
+	border-radius: 5px;
+	padding: 30px;
+	margin-bottom: 30px;
+	border-top: solid hsl(34, 97%, 64%);
+	box-shadow: 5px 10px 20px hsl(229, 6%, 66%);
+}
+.karma h2{
+	text-align: left;
+}
+.karma h5{
+	text-align: left;
+	color: hsl(229, 6%, 66%);
+	width: 250px;
+}
+.karma img{
+	margin-left: 200px;
+	margin-top: 30px;
+}
+.calculator{
+	border: none;
+	border-radius: 5px;
+	padding: 30px;
+	margin-bottom: 30px;
+	border-top: solid hsl(212, 86%, 64%);
+	box-shadow: 5px 10px 20px hsl(229, 6%, 66%);
+}
+.calculator h2{
+	text-align: left;
+}
+.calculator h5{
+	text-align: left;
+	color: hsl(229, 6%, 66%);
+	width: 250px;
+}
+.calculator img{
+	margin-left: 200px;
+	margin-top: 30px;
+}
